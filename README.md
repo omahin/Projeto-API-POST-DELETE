@@ -12,10 +12,17 @@ criando as lógicas necessárias para cada rota.
 ## Demandas de negócio :hammer_and_wrench:
 
 :small_blue_diamond: Quero uma rota principal pra visualizar a apresentação do projeto
+
 :small_blue_diamond: Quero visualizar todos os contatinhos
+
 :small_blue_diamond: Quero visualizar os contatinhos por nome
+
 :small_blue_diamond: Quero visualizar os contatinhos por id
+
 :small_blue_diamond: Quero adicionar novo contatinho
+
 :small_blue_diamond: Quero deletar contatinhos
 
 ## Testando a API no Postman :arrow_forward:
+
+![](https://github.com/omahin/Projeto-API-POST-DELETE/blob/main/src/models/Anima%C3%A7%C3%A3oPOSTDELETE.gif)
